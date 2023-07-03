@@ -1,11 +1,11 @@
 {
-    "contact" :[
-        {
-            "id" : 1,
-            "username":"riki",
-            "image" : "/",
-            "description" : "lorem"
-        }
-        
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
